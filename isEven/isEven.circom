@@ -1,5 +1,6 @@
 pragma circom 2.0.0;
 
+// Comment to test something
 template IsEven() {
     signal input num;
     signal output isEven;
